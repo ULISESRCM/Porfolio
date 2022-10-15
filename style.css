@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.name-redes{
+    display: flex;
+    justify-content: space-between;
+}
+.banner{
+    display: flex;
+    width: 100vh;
+    height: 30vh;
+    background-color: teal;
+    position: absolute;
+    
+}
+.min-profile{
+    top: 22vh;
+    left: -40vh;
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    position: relative;
+    background-color: blue;
+}
